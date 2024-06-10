@@ -22,6 +22,7 @@
 </script>
 
 <h1 class="title">Rick and Morty Svelte</h1>
+<h2 class="title">Pagina: {pagina}</h2>
 
 <div class="contenedor">
   <div class="botones">
